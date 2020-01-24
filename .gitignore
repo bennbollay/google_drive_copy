@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Google API Secrets
+client_secrets.json
+credentials.json
